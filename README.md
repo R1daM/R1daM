@@ -13,7 +13,7 @@ current_job: DevOps Engineer intern @TrouveTaVoie
 education:
   [
     "Cybersecurity & IOT Engineer's degree",
-    "Bachelor's in physical science",
+    "Bachelor's in physical science"
   ]
 company: TrouveTaVoie
 
