@@ -9,13 +9,13 @@
 
 name: MBROUK Rida
 located_in: Khouribga, Morocco
-current_job: DevOps Engineer intern @TrouveTaVoie
+current_job: Cloud security & DevSecOps engineer intern @SG-ABS
 education:
   [
     "Cybersecurity & IOT Engineer's degree",
     "Bachelor's in physical science"
   ]
-company: TrouveTaVoie
+company: SG-ABS
 
 fields_of_interests:
   [
@@ -30,6 +30,7 @@ fields_of_interests:
 technical_background:
 
   [
+    "Intern - Cloud security & DevSecOps Engineer",
     "Intern - DevOps & Cloud Engineer",
     "Intern - Network Security Engineer"
   ]
