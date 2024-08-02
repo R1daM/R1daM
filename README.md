@@ -12,7 +12,7 @@ located_in: Casablanca, Morocco
 current_job: Cloud security & DevSecOps engineer intern @SG-ABS
 education:
   [
-    "Cybersecurity & IOT Engineer's degree",
+    "Cybersecurity Engineer's degree",
     "Bachelor's in physical science"
   ]
 company: SG-ABS
