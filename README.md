@@ -19,12 +19,11 @@ company: SG-ABS
 
 fields_of_interests:
   [
-    "Web Development",
     "Cybersecurity",
-    "IOT",
     "DevOps",
     "DevSecOps",
-    "Cloud"
+    "Cloud",
+    "Web Development"
   ]
 
 technical_background:
