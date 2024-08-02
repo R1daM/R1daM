@@ -8,7 +8,7 @@
 ```yaml
 
 name: MBROUK Rida
-located_in: Khouribga, Morocco
+located_in: Casablanca, Morocco
 current_job: Cloud security & DevSecOps engineer intern @SG-ABS
 education:
   [
