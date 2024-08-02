@@ -62,6 +62,8 @@ currently_learning: ["Kubernetes, GCP & Terraform"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" />
+<img src="https://img.icons8.com/?size=100&id=kEkT1u7zTDk5&format=png&color=000000" width="45" height="45" />
+
                                                        
           
           
