@@ -13,7 +13,7 @@ current_job: Cloud security & DevSecOps engineer intern @SG-ABS
 education:
   [
     "Cybersecurity Engineer's degree",
-    "Bachelor's in physical science"
+    "Bachelor's in physical sciences"
   ]
 company: SG-ABS
 
