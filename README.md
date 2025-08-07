@@ -9,13 +9,11 @@
 
 name: MBROUK Rida
 located_in: Casablanca, Morocco
-current_job: Cloud security & DevSecOps engineer intern @SG-ABS
 education:
   [
     "Cybersecurity Engineer's degree",
     "Bachelor's in physical sciences"
   ]
-company: SG-ABS
 
 fields_of_interests:
   [
@@ -29,7 +27,8 @@ fields_of_interests:
 technical_background:
 
   [
-    "Intern - Cloud security & DevSecOps Engineer",
+    "Full time - DevOps Engineer",
+    "Full time - DevSecOps Engineer",
     "Intern - DevOps & Cloud Engineer",
     "Intern - Network Security Engineer"
   ]
