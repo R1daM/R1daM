@@ -11,8 +11,7 @@ name: MBROUK Rida
 located_in: Casablanca, Morocco
 education:
   [
-    "Cybersecurity Engineer's degree",
-    "Bachelor's in physical sciences"
+    "Cybersecurity Engineer's degree"
   ]
 
 fields_of_interests:
@@ -21,7 +20,7 @@ fields_of_interests:
     "DevOps",
     "DevSecOps",
     "Cloud",
-    "Web Development"
+    "Cloud Security"
   ]
 
 technical_background:
@@ -33,7 +32,7 @@ technical_background:
     "Intern - Network Security Engineer"
   ]
   
-currently_learning: ["Kubernetes, GCP & Terraform"]
+currently_learning: ["Kubernetes, Terraform & Azure"]
 ```
 
 <h2> 🚀 &nbsp;Some Tools and Technologies I Have Used and Learned</h2>
